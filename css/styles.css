@@ -14,7 +14,6 @@
 @import "components/no-mobile.css";
 
 /* screens */
-
 @import "screens/login.css";
 @import "screens/friends.css";
 @import "screens/find.css";
