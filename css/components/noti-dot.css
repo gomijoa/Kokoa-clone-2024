@@ -1,0 +1,13 @@
+.noti-dot {
+  background-color: tomato;
+  display: flex;
+
+  width: 5px;
+  height: 5px;
+  border-radius: 2.5px;
+  color: tomato;
+  position: absolute;
+  font-weight: bolder;
+  top: 50px;
+  right: 20px;
+}
